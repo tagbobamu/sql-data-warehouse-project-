@@ -8,7 +8,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 -----
 
-##     Project requirements
+##     Project Requirements
 
 ###  Building the Data Warehouse (Data Engineering)
 
