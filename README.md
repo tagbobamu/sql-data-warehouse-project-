@@ -16,7 +16,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 Develop a modern data warehouse using  SQL server to consolidate sales data, enabling analytics reporting and informed decision-making.
 
 
-#### Specifications
+### Specifications
 
 **Data Sources**: Import data from two source system( ERP and CRM) as CSV files.
 ** Data Quality**: Cleanse and resolve data quality issues prior to analysis.
