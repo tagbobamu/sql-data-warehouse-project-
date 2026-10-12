@@ -51,4 +51,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 
   ## About Me
 
-  I`m*Tunde Agbobamu*,I`m  an IT professional and a passionate Business Intelligent and Data Analyst.
+  Im*Tunde Agbobamu*, Im an IT professional and a passionate Business Intelligent and Data Analyst.
